@@ -19,6 +19,8 @@ public class Prueba {
     public static void main(String[] args) {
         
         JOptionPane.showMessageDialog(null, "Mensaje");
+        JOptionPane.showMessageDialog(null, "Cambio1");
+        JOptionPane.showMessageDialog(null, "Cambio2");
         
     }
     
